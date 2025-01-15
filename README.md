@@ -4,8 +4,8 @@ A fabulous podcast website template for hosting and sharing your shows.
 
 HTML landing page template deployed by Baklib CMS.
 
-![Baklib CMS based theme](./assets/images/theme/index.webp)
-![Baklib CMS based dark theme](./assets/images/theme/page.webp)
+![Baklib CMS based index theme](./assets/images/theme/index.webp)
+![Baklib CMS based page theme](./assets/images/theme/page.webp)
 
 ## 🚀 Project Structure
 
